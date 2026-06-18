@@ -111,7 +111,7 @@ eventbook/
 * Event Search & Filters
 * Admin Analytics Dashboard
 * Event Organizer Panel
-* AI Chatbot Integration
+
 
 ## Acknowledgment
 
